@@ -1,0 +1,5 @@
+#Some cache files
+__pycache__
+
+#Discord Bot Token
+config.py
